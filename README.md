@@ -1,4 +1,4 @@
-# Feed-Read
+# Fread-Read
 
 <!--- [![Build Status](https://secure.travis-ci.org/sentientwaffle/feed-read.png?branch=master)](http://travis-ci.org/sentientwaffle/feed-read) --->
 
